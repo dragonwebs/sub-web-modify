@@ -344,7 +344,7 @@ export default {
           "肥羊备用后端【vless reality+hy1+hy2】": "https://api.v1.mk",
         },
         backendOptions: [
-          { value: "https://subapi.cmliussss.net" },
+          { value: "https://sc.yl85.top" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
           { value: "https://api.v1.mk" },
@@ -1304,3 +1304,4 @@ export default {
   }
 };
 </script>
+
